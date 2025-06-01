@@ -1,12 +1,13 @@
 AddonId: 'Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992'
 Type: ThemeFullscreen
 InstallerManifestUrl: https://raw.githubusercontent.com/And360red/Solaris//main/InstallerManifest.yaml
-ShortDescription: 'Solaris is a fullscreen Playnite theme inspired by the ReMiX theme created by Zeroantix.'
+ShortDescription: 'Solaris is a modern, highly customizable Fullscreen Playnite theme focused on clean design, smooth animations, and extensive personalization options.'
 Name: 'Solaris'
 Author: 'And360red'
 SourceUrl: https://github.com/And360red/Solaris/
 Links:
-    Github: https://github.com/And360red/Solaris/
+    GitHub: https://github.com/And360red/Solaris/
+    Buy me a coffe (Ko-fi): https://ko-fi.com/and360red
 IconUrl: https://raw.githubusercontent.com/And360red/Solaris/refs/heads/main/Images/icon.png
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/And360red/Solaris/refs/heads/main/Images/thumb01.png
